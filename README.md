@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...2832889180@qq.com
+- 📫 How to reach me ...@qq.com
 
 <!---
 npu-mbw/npu-mbw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
